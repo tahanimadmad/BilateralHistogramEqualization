@@ -1,3 +1,3 @@
 # BHE_ICIP
 
-[Input-6484-1024-2048.png](https://postimg.cc/NLY1fvhC)
+![Alt text](https://i.postimg.cc/CMnJ7wc0/Input-6484-1024-2048.png "Optional title")
