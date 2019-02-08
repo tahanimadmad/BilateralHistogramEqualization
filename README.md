@@ -5,7 +5,7 @@
 
 ## Image 2
 
-![Alt text](https://i.postimg.cc/FYVtt8v3/4-BHSPiece-5-R0-25-S0-0-1.png "Image 2")
+![Alt text](https://i.postimg.cc/13LyF1YC/4-BHSPiece-5-R0-25-S0-0-1.png "Image 2")
 
 ## Image 3
 ![Alt text](https://i.postimg.cc/HJFVqrdr/4-Originalpiece.png "Image 3")
