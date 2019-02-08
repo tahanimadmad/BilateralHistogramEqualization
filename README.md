@@ -1,7 +1,7 @@
 # BHE_ICIP
 
 ## Image 1
-![Alt text](https://i.postimg.cc/xdPWtr13/4-BHE5-R0-025.png "Image 1")
+[![4-BHE5-R0-025.png](https://i.postimg.cc/NMh60MDG/4-BHE5-R0-025.png)](https://postimg.cc/rdJ0nq77)
 
 ## Image 2
 
