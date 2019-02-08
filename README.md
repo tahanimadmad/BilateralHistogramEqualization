@@ -1,8 +1,5 @@
 # BHE_ICIP
 
-## PIPISTRELLUS NANUS
-![Alt text](https://i.postimg.cc/CMnJ7wc0/Input-6484-1024-2048.png "PIPISTRELLUS NANUS")
-
 ## Image 1
 ![Alt text](https://i.postimg.cc/7CfsZW75/4-BHE5-R0-025.png "Image 1")
 
