@@ -1,5 +1,7 @@
-# Matlab Code - Bilateral Histogram Equalization
+# Matlab Source Code
 
-## CODE :
+## Bilateral Histogram Equalization :
 
-Will be vailable soon.
+We recommend reading our paper ' BILATERAL HISTOGRAM EQUALIZATION FOR X-RAY IMAGE TONE MAPPING ' <IEEE ICIP 2019>, for a  formal presentation of BHE tone-mapping algorithm.
+
+
