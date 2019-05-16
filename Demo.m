@@ -1,7 +1,7 @@
 % - - - - - - - - - - - - - - - - - - - - - - - - - - 
 % This script perfoms the Bilateral Histogram Equalization < ICIP 2019 >
 %
-% Authors : Tahani Madmad and Christophe Devleeshouwer (c) , ICTEAM/ELEN
+% Authors : Tahani Madmad and Christophe De Vleeschouwer (c) , UCLouvain/ICTEAM
 %
 % e - mail : tahani.madmad@uclouvain.be
 %
